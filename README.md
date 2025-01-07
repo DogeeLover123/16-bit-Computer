@@ -1,5 +1,5 @@
 # 16-bit-Computer
-Designed my own CPU, and custom 4 byte-wide Instruction-Set and Assembly language for it
+Designed my own CPU, and custom 4 wide Instruction-Set and Assembly language for it
 
 Instruction is 4 wide, and since word size is 2 bytes each instruction is in total 8 bytes
 However, most of the instructions are contained within the lower byte, and the upper byte is used only to immediate values
